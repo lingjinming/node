@@ -1,0 +1,1 @@
+console.log('这是node中的模块，被require到其他模块')
