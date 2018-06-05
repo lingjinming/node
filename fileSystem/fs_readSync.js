@@ -1,0 +1,1 @@
+//fs.read 函数同步版本，会返回bytesRead的个数
